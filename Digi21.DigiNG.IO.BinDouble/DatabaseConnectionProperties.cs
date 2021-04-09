@@ -2,7 +2,7 @@
 {
     public struct DatabaseConnectionProperties
     {
-        public string DataModel { get; set; }
-        public string ConnectionString { get; set; }
+        public string DataModel { get => throw null; set => throw null; }
+        public string ConnectionString { get => throw null; set => throw null; }
     }
 }
