@@ -36,13 +36,11 @@ namespace Digi21.DigiNG.IO.BinDouble
         public ReadOnlyPolygon Add(Polygon polygon) => throw null;
         public ReadOnlyText Add(Text text) => throw null;
         public void Add(IEnumerable<Entity> entities) => throw null;
-        public void Add(Entity entity, IDictionary<string, IDictionary<string, object>> databaseAttributes) => throw null;
         internal void AñadeResultado(string resultado) => throw null;
         internal void AñadeTarea(ITask task) => throw null;
         public void Delete(Entity entity) => throw null;
         public void Delete(IEnumerable<Entity> entities) => throw null;
         public void Dispose() => throw null;
-        public IDictionary<string, IDictionary<string, object>> GetDatabaseAttributes(Entity entity) => throw null;
         public IEnumerator<Entity> GetEnumerator() => throw null;
         IEnumerator IEnumerable.GetEnumerator() => throw null;
         public string Wkt => throw null;
