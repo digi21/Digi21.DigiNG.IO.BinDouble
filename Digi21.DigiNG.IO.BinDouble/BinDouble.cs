@@ -51,6 +51,7 @@ namespace Digi21.DigiNG.IO.BinDouble
         public bool CanRead => throw null;
         public string Path => throw null;
         public string ConnectionString => throw null;
+        public int IndexOf(Entity entity) => throw null;
         public IEnumerable<string> ReferenceFiles => throw null;
 
         #region IWindow3D
