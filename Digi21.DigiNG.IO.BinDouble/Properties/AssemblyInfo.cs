@@ -6,12 +6,6 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: ReferenceAssembly]
-[assembly: AssemblyTitle("Digi21.DigiNG.IO.BinDouble")]
-[assembly: AssemblyDescription("Contains the types to serialize double-precision binary files")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Dreaming With Objects S.L.")]
-[assembly: AssemblyProduct("Digi3D.NET")]
-[assembly: AssemblyCopyright("Copyright (c) 2010-2022 Digi21.net")]
 [assembly: AssemblyTrademark("(c) 2010-2022 José Ángel Martínez Torres")]
 [assembly: AssemblyCulture("")]
 
@@ -22,16 +16,3 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("31f8da2d-af10-4894-9e88-42851be8c932")]
-
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Build and Revision Numbers
-// by using the '*' as shown below:
-// [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("22.3.0.0")]
-[assembly: AssemblyFileVersion("4.0.0.0")]
