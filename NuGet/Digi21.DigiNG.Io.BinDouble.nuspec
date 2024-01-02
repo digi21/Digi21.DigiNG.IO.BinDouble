@@ -20,7 +20,7 @@
 		<repository type="git" url="https://github.com/digi21/Digi21.DigiNG.IO.BinDouble.git" commit="55adf8baefbea03fe78542e4313bcda3bbbf09b1" />
 		<dependencies>
 			<group targetFramework="net8.0">
-				<dependency id="Digi21.DigiNG" version="24.0.0" exclude="Build,Analyzers" />
+				<dependency id="Digi21.DigiNG" version="24.0.0"/>
 			</group>
 		</dependencies>
 	</metadata>
